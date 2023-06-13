@@ -13,6 +13,7 @@ Noisy signal output from MATLAB
 
 
 ![image](https://github.com/ChinmaiChowdary/4th-order-MA-Filter/assets/119433702/113c8500-07a6-42df-8cf7-b976c6b636b4)
+
 register transfer logic of 4th order Moving Average FIR Filter
 
 
