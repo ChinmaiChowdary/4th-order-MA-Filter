@@ -1,5 +1,7 @@
 # 4th-order-MA-Filter
 
+Using the MATLAB editor, a message has been created and a noise signal added to it. Noise = (b-a) is the formula for the noise function.noise = noise; *rand(length(sine_wave),1) + a. The aforementioned data must be transformed into binary data before being fed into the moving average filter. The generated data is placed in the signal.data file after first being converted from real values into integer data type and then into binary data using the function dec2bin.
+
 The main module begins with the module declaration along with inputs and outputs. After deciding on the order (number of taps) for your FIR and obtaining your coefficient values, the next set of parameters that must be defined is the bit width of the input samples, output samples, and the coefficients themselves. Four delays are constructed using D flip-flops and multiplication operation is used to multiply respected coefficients with their delays and finally addition operation is used to generate output. 
 Another module DFF is created to allow main module to insert delays. The testbench is used to call the binary signal.data file and Verilog main module (by instantiating) and perform the filtering operation on the above the noisy signal.
 
