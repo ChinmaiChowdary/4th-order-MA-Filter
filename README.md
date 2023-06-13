@@ -25,6 +25,10 @@ Vivado simulation output
 MATLAB verification
 
 
+![sim](https://github.com/ChinmaiChowdary/4th-order-MA-Filter/assets/119433702/1f86f774-4a76-4b04-b172-ed70872e3c7e)
+Simulink design
+
+
 ![simulink](https://github.com/ChinmaiChowdary/4th-order-MA-Filter/assets/119433702/2808f522-a745-45d1-aabd-a968bca8b9f6)
 Simulink verification
 
