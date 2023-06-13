@@ -6,10 +6,6 @@ The main module begins with the module declaration along with inputs and outputs
 Another module DFF is created to allow main module to insert delays. The testbench is used to call the binary signal.data file and Verilog main module (by instantiating) and perform the filtering operation on the above the noisy signal.
 
 
-![image](https://github.com/ChinmaiChowdary/4th-order-MA-Filter/assets/119433702/92198887-1f75-4f83-b2a2-55e3fd8f0931)
-4th order moving average filter
-
-
 
 
 ![image](https://github.com/ChinmaiChowdary/4th-order-MA-Filter/assets/119433702/6793f425-13f5-4fec-a1da-d42b5c505f21)
