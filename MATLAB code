@@ -1,6 +1,6 @@
 % Generate a sine wave
 close all; 
-clear all;
+clear all; 
 fs = 10;
 Amp = 1;
 t = 0:1/fs:3*pi; % time vector 
