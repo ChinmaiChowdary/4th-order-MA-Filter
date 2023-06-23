@@ -3,7 +3,7 @@ close all;
 clear all;
 fs = 10;
 Amp = 1;
-t = 0:1/fs:3*pi; % time vector
+t = 0:1/fs:3*pi; % time vector 
 sine_wave = Amp*sin(t);
 subplot(2,2,1);
 plot(t, sine_wave);
