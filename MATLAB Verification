@@ -3,7 +3,7 @@ clc;
 
 fs = 10;
 Amp = 1;
-t = 0:1/fs:3*pi; % time vector
+t = 0:1/fs:3*pi; % time vector 
 sine_wave = Amp*sin(t);
 
 a = 0.1; % upper limit
